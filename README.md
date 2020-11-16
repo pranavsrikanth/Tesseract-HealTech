@@ -1,7 +1,8 @@
 # Tesseract-HealTech
 DEF Hacks submission by group Tesseract 
 
-![Tesseract](https://user-images.githubusercontent.com/72314477/96359209-a424ae80-112d-11eb-979f-6bc67a1cd95f.jpg)
+![logo healtech](https://user-images.githubusercontent.com/72306130/99216751-726e3880-27fc-11eb-9ef9-274f092a7fa7.jpg)
+
 ## Team Members  
 
 Nihal Jahagirdar , Pranav Srikanth , Noyonika Ghosh, Sreenija Gundivoina
@@ -9,6 +10,7 @@ Nihal Jahagirdar , Pranav Srikanth , Noyonika Ghosh, Sreenija Gundivoina
 ## Deliverable - Update 1:
 **Have you made any new ideas?**
 Our team, Tesseract, has come up with an idea to help provide better health services to the society.thus, improve our standards of living. We understand that each of us must contribute to achieve our goal. Our app aims to make this process safe, easy and accessible. It creates a network of blood donors and hospitals striving to save a fellow human’s life. the app helps identify and treat patients with speed and accuracy.
+
 **As a team, write a brief paragraph about what problem your team is trying to solve?**
 4.3 lakh road accidents are recorded in India every year leading to 1.73 lakh casualties and 4.4 lakh injured. Most of these casualties could be prevented if help comes in time and in an effective manner. The first source of help in most of these cases are passersby whose help can save life and injury. Healtech aims to enable good samaritans by providing relevant information and equipping nearby hospitals to handle such scenarios more efficiently.
 
@@ -18,7 +20,7 @@ Every day 12,000 people in India die due to the sheer lack of donated blood. In 
 
 **What track has your team chosen? **
 We are submitting in the beginners track project as all of our members are high school students.
-implementing firebase and google cloud features such google maps
+implementing firebase and google cloud features such google maps We have also included echoAR.
 
 
 **Could you list the ideas that you plan to implement in your project?**
