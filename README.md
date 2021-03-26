@@ -5,7 +5,7 @@ DEF Hacks submission by group Tesseract
 
 ## Team Members  
 
-Nihal Jahagirdar , Pranav Srikanth , Noyonika Ghosh, Sreenija Gundivoina
+Pranav Srikanth
 
 ## Deliverable - Update 1:
 **Have you made any new ideas?**
